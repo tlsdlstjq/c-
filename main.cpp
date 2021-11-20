@@ -9,5 +9,7 @@ int main(void)
 	//int b = rand() % 1000;
 	//int c = rand() % 1000;
 	printf("%d %d %d", a, b, c);
+	printf("Hello World");
     return 0;
+    
 }
